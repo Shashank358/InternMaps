@@ -1,2 +1,0 @@
-# InternMaps
-simple  map
